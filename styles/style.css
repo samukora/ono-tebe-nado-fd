@@ -38,7 +38,7 @@ body {
 }
 
 .header__logo_image {
-  display: block; 
+  display: block;
   width: 138px;
 }
 
@@ -117,7 +117,7 @@ body {
 }
 
 .cover__description-text {
-    word-spacing: 18px;
+  word-spacing: 18px;
 }
 
 .bet-button {
@@ -207,7 +207,7 @@ body {
 /*ABOUT*/
 
 .about {
-  margin: 120px 24px 180px 24px; 
+  margin: 120px 24px 180px 24px;
   display: grid;
   grid-template-columns: 334px 1fr;
 }
